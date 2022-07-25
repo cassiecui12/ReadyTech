@@ -7,11 +7,11 @@ namespace CoffeeApp.Test
     public class CoffeeServiceTests
     {
         [Fact]
-        public void WhenCountNotDivisibleByFiveAndDateNowAprilFirstShouldReturnString()
+        public async Task WhenCountNotDivisibleByFiveAndDateNowAprilFirstShouldReturnString()
         {
             byte count = 1;
             DateTime dateTime = new(2022, 1, 1);
-            var response = CoffeeService.BrewCoffee(count, dateTime);
+            var response = await CoffeeService.BrewCoffee(count, dateTime);
 
             string expected = JsonSerializer.Serialize(new
             {
@@ -23,23 +23,23 @@ namespace CoffeeApp.Test
         }
 
         [Fact]
-        public void WhenDateIsAprilFirstShouldThrowTeapotException()
+        public async Task WhenDateIsAprilFirstShouldThrowTeapotException()
         {
             byte count = 1;
             DateTime dateTime = new(2022, 4, 1);
-            var action = () => CoffeeService.BrewCoffee(count, dateTime);
+            var action = async () => await CoffeeService.BrewCoffee(count, dateTime);
 
-            Assert.Throws<TeapotException>(action);
+            await Assert.ThrowsAsync<TeapotException>(action);
         }
 
         [Fact]
-        public void WhenCountDivisibleByFiveShouldThrowFifthCallException()
+        public async Task WhenCountDivisibleByFiveShouldThrowFifthCallException()
         {
             byte count = 5;
             DateTime dateTime = new(2022, 4, 1);
-            var action = () => CoffeeService.BrewCoffee(count, dateTime);
+            var action = async () => await CoffeeService.BrewCoffee(count, dateTime);
 
-            Assert.Throws<FifthCallException>(action);
+            await Assert.ThrowsAsync<FifthCallException>(action);
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\CoffeeApp.Test.csproj": {}
+    "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\CoffeeApp.Test.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\CoffeeApp.Test.csproj": {
+    "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\CoffeeApp.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\CoffeeApp.Test.csproj",
+        "projectUniqueName": "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\CoffeeApp.Test.csproj",
         "projectName": "CoffeeApp.Test",
-        "projectPath": "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\CoffeeApp.Test.csproj",
+        "projectPath": "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\CoffeeApp.Test.csproj",
         "packagesPath": "C:\\Users\\Jacob Zaidi\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\obj\\",
+        "outputPath": "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jacob Zaidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj": {
-                "projectPath": "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj"
+              "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj": {
+                "projectPath": "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj": {
+    "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
+        "projectUniqueName": "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
         "projectName": "CoffeeApp",
-        "projectPath": "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
+        "projectPath": "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
         "packagesPath": "C:\\Users\\Jacob Zaidi\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\obj\\",
+        "outputPath": "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jacob Zaidi\\AppData\\Roaming\\NuGet\\NuGet.Config",

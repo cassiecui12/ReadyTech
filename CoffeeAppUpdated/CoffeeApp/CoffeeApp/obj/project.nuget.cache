@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zuz6e9oK/BH6MFthwiHaXfY//YV+YJze3bPr0DJW/UTYNALxvxntzW2d4e3rHfbku0ul7HWakV0OBUiN09kF2A==",
+  "dgSpecHash": "kRiVNQR4saEVqoMQz9LUDSzpXl1s9ap0CFlfqgUz9U2XR35TNoskITU7JYda8yl2W+kv3RM+0Lf0tnoW08Khjg==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
+  "projectFilePath": "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jacob Zaidi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Jacob Zaidi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

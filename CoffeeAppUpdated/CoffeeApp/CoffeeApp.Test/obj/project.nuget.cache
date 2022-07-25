@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6m9tW2bo5xFa+ffFzET9MEAr05v7mI0cDBJtK/jVp2F5qY/sPVQUMAQxmKCZ7tKgMS6OSn9jpfd+SW/nRUv1bw==",
+  "dgSpecHash": "TTYV09PUZEkB3eJ5eRLKa9ovrhqFv2l/pcBnJJqOxZd1aPSBM4YOgYPOlBtVeruL5cZVCVYICdSWp/Vr9sbmqQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Other\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\CoffeeApp.Test.csproj",
+  "projectFilePath": "C:\\Dev\\Other\\ReadyTech\\CoffeeAppUpdated\\CoffeeApp\\CoffeeApp.Test\\CoffeeApp.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jacob Zaidi\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Jacob Zaidi\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

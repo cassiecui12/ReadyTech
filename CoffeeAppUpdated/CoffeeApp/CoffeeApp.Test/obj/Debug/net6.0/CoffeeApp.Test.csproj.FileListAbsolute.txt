@@ -109,3 +109,12 @@ C:\Dev\Other\CoffeeApp\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\refint\CoffeeAp
 C:\Dev\Other\CoffeeApp\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\CoffeeApp.Test.pdb
 C:\Dev\Other\CoffeeApp\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\CoffeeApp.Test.genruntimeconfig.cache
 C:\Dev\Other\CoffeeApp\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\ref\CoffeeApp.Test.dll
+C:\Dev\Other\ReadyTech\CoffeeAppUpdated\CoffeeApp\CoffeeApp.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Dev\Other\ReadyTech\CoffeeAppUpdated\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\CoffeeApp.Test.csproj.AssemblyReference.cache
+C:\Dev\Other\ReadyTech\CoffeeAppUpdated\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\CoffeeApp.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Other\ReadyTech\CoffeeAppUpdated\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\CoffeeApp.Test.AssemblyInfoInputs.cache
+C:\Dev\Other\ReadyTech\CoffeeAppUpdated\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\CoffeeApp.Test.AssemblyInfo.cs
+C:\Dev\Other\ReadyTech\CoffeeAppUpdated\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\CoffeeApp.Test.csproj.CoreCompileInputs.cache
+C:\Dev\Other\ReadyTech\CoffeeAppUpdated\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\CoffeeApp.Test.dll
+C:\Dev\Other\ReadyTech\CoffeeAppUpdated\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\refint\CoffeeApp.Test.dll
+C:\Dev\Other\ReadyTech\CoffeeAppUpdated\CoffeeApp\CoffeeApp.Test\obj\Debug\net6.0\CoffeeApp.Test.pdb

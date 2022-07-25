@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Other\\CoffeeApp\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
+      "projectUniqueName": "C:\\Dev\\Other\\ReadyTech\\CoffeeApp\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
       "projectName": "CoffeeApp",
-      "projectPath": "C:\\Dev\\Other\\CoffeeApp\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
+      "projectPath": "C:\\Dev\\Other\\ReadyTech\\CoffeeApp\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
       "packagesPath": "C:\\Users\\Jacob Zaidi\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Other\\CoffeeApp\\CoffeeApp\\CoffeeApp\\obj\\",
+      "outputPath": "C:\\Dev\\Other\\ReadyTech\\CoffeeApp\\CoffeeApp\\CoffeeApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jacob Zaidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
